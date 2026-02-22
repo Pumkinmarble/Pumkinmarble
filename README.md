@@ -4,4 +4,4 @@ I love computers, math, and competitive games of skill/strategy. My favourite ri
 
 The majority of my work is done in private repositories :-)
 
-Currently, I am working on a couple of projects to further my knowledge of python, c++, and rust!
+Currently, I am working on something BIG 🤫
