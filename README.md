@@ -4,4 +4,4 @@ I love computers, math, and competitive games of skill/strategy. My favourite ri
 
 The majority of my work is done in private repositories :)
 
-Currently, I am working on something BIG 🤫
+Currently I am working on...
