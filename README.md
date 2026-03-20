@@ -1,7 +1,5 @@
 <h1 align="center">Harrison Yu</h1>
 
-I love computers, math, and competitive games of skill/strategy. My favourite right now is billiards.
+I love computers, math, and games of skill/strategy.
 
-The majority of my work is done in private repositories :)
-
-Currently I am working on...
+Majority of my work is done in private repositories.
