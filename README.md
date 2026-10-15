@@ -1,3 +1,1 @@
-<h1 align="center">Harrison Yu</h1>
-
-I love math, computers, sports, travel, food, and games of competition/skill/strategy.
+I love math, computers, sports, travel, food, and games of competition/skill/strategy. Feel free to reach out to me for any reason :)
